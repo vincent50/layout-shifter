@@ -1,0 +1,21 @@
+.c1
+{
+    width: 23%;
+    height: calc(47vh - 1rem);
+}
+
+.c2
+{
+    width: 73%;
+}
+
+.c3, .c4
+{
+    width: 100%;
+    height: calc((47vh - 4rem) /2);
+}
+
+.c5
+{
+    height: calc(47vh - 1rem);
+}
